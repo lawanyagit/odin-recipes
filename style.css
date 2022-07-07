@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+.heading {
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Times New Roman', serif;
+}
+div {
+    text-align: center;
+}
+
+#heading2 {
+    color: azure;
+    text-align: center;
+    font-size: 60px;
+}
+
+#list {
+    text-align: center;
+    background-color: beige;
+}
+.li1,
+.li2,
+.li3 {
+    font-size: 25px;
+}
+
+a:link {
+    color: rgb(107, 77, 38);
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: rgb(240, 32, 153);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.top {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
